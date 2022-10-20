@@ -1,5 +1,3 @@
-![Banner](https://socialify.git.ci/kothariji/competitive-programming/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
-
 # Competitive Programming :high_brightness::high_brightness:
 
 Hello Programmers💻,
@@ -26,6 +24,7 @@ According to me, competitive programming is a sport. A sport based on problem-so
 - #### [CSES](https://cses.fi/problemset/)
 - #### [binarysearch](https://www.binarysearch.com/)
 - #### [Coderbyte](https://coderbyte.com/#courses)
+
 ## BENEFITS OF COMPETITIVE PROGRAMMING
 
 The skills needed for competitive programming have long-lasting benefits to your career as a developer. There are numerous benefits to participating in competitive programming, including:
@@ -382,7 +381,3 @@ Interview prep: When you are trying to get an engineering job, companies will te
 ### Doubts and queries
 
 - https://stackoverflow.com/
-
-### Thank you for Contributing :pray: :dizzy:
-
-![105](https://contributors-img.web.app/image?repo=kothariji/competitive-programming)
